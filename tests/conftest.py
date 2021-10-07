@@ -1,4 +1,3 @@
-from _pytest.monkeypatch import monkeypatch
 import pytest
 import sys
 
